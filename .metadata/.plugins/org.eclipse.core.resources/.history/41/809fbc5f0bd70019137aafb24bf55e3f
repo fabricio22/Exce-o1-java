@@ -1,0 +1,5 @@
+package udemy.excecao.model.entities;
+
+public class Reservation {
+
+}

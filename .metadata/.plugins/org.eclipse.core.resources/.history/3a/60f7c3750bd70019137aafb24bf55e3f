@@ -1,0 +1,11 @@
+package udemy.excecao.model.entities;
+
+public class Reservation {
+	
+	private Integer roomNumber;
+	private Date checkIn;
+	private Date checkOut;
+	
+	
+
+}
