@@ -1,2 +1,2 @@
-# Exce-o1-java
+# Excecao1-java
 Montando Exceção versão 1
